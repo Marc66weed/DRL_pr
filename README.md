@@ -1,8 +1,10 @@
 # 基於近端策略優化 (PPO) 演算法之智慧代理人開發專案
+
 <div align="center">
   <video src="assets/PPOtest.mp4" width="80%" controls muted autoplay loop></video>
   <p><i>影片：PPO 代理人與人類玩家之即時對戰側錄</i></p>
 </div>
+
 ## 1. 專案概述
 本專案實現了一個基於離散狀態空間的強化學習 (Reinforcement Learning) 代理人，主要應用於井字遊戲 (Tic-Tac-Toe) 之策略訓練。核心技術採用近端策略優化 (PPO) 演算法，並結合啟發式演算法 (Minimax) 作為教練機制，解決強化學習在稀疏獎勵 (Sparse Reward) 環境下的收斂問題。
 
