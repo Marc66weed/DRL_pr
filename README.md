@@ -1,6 +1,4 @@
-
-
-# 基於近端策略優化 (PPO) 演算法之智慧代理人開發專案
+# 基於近端策略優化(Proximal Policy Optimization, PPO)演算法之智慧代理人開發專案
 
 <div align="center">
   <video src="https://github.com/user-attachments/assets/2e2a7970-3053-494a-8af0-8c324ccf4ade" width="80%" controls muted autoplay loop></video>
