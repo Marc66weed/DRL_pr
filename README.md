@@ -1,9 +1,7 @@
-
-
 # 基於近端策略優化 (PPO) 演算法之智慧代理人開發專案
 
 <div align="center">
-  <video src="https://github.com/user-attachments/assets/2e2a7970-3053-494a-8af0-8c324ccf4ade" width="80%" controls muted autoplay loop></video>
+  <video src="https://github.com/user-attachments/assets/4e9feaed-a5d9-4ac8-a080-a78335911135" width="80%" controls muted autoplay loop></video>
   <p><i>影片：PPO 代理人與人類玩家之即時對戰側錄</i></p>
 </div>
 
