@@ -6,7 +6,7 @@
 </div>
 
 ## 1. 專案概述
-本專案實現了一個基於離散狀態空間的強化學習 (Reinforcement Learning) 代理人，主要應用於井字遊戲 (Tic-Tac-Toe) 之策略訓練。核心技術採用近端策略優化 (PPO) 演算法，並結合啟發式演算法 (Minimax) 作為教練機制，解決強化學習在稀疏獎勵 (Sparse Reward) 環境下的收斂問題。
+本專案實現了一個基於離散狀態空間的強化學習 (Reinforcement Learning) 代理人，主要應用於井字遊戲 (Tic-Tac-Toe) 之策略訓練。核心技術採用近端策略優化 (PPO) 演算法，並結合Minimax作為教練機制，解決強化學習在稀疏獎勵 (Sparse Reward) 環境下的收斂問題。
 
 專案設計強調軟體工程實務，包含環境隔離 (Python Virtual Environment)、自動化單元測試 (Pytest) 以及持續整合 (GitHub Actions) 的完整流程。
 
